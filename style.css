@@ -151,12 +151,13 @@ footer {
    border-radius: 30%;
 }
 
-@keyframes move{
+/*@keyframes move{
    0% {
       transform-translate:x 
       transform-translate:y 
    }
 }
+*/
 
 #story {
    display: flex;
